@@ -17,10 +17,6 @@ A cybersecurity portfolio focused on Blue Team operations, threat detection, sec
 - Python & Bash
 - SIEM Fundamentals
 
-## 🚀 Projects
-- Phishing Email Investigation
-- Security Log Analysis
-- Incident Response Case Studies
 
 ## 📚 Learning Goals
 - Improve Linux and networking skills
