@@ -1,1 +1,11 @@
 # The Greenholt Phish
+
+## Overview
+- **Platform:** Tryhackme 
+- **Subject:** Use the knowledge attained to analyze a malicious email.
+- **Status:** Done
+
+## Objective 
+- Analyze the provided email to identify and extract key artifacts
+- Investigate the message source to determine its origin and authenticity
+- Use analysis tools to assess the potential maliciousness of the email
