@@ -40,7 +40,7 @@ Who is the owner of the originating IP?
 Answer : Hostpapa ( Used who is lookup to get the details of the ip address orgname done on this ip address 112.119.71.157  ) 
 
 <img width="595" height="638" alt="image" src="https://github.com/user-attachments/assets/1819cc7f-3add-417d-a96d-ad5fd5a221a3" />
-
+ 
 Q7 Run an SPF record check on the Return-Path domain identified in the email headers.
 What is the full SPF record for this domain?
 Answer : i used dig command with +short and TXT flags  
