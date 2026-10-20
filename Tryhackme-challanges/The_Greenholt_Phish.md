@@ -28,18 +28,19 @@ Answer : info.mutawamarine@mail.com
 
 Q5 Begin analyzing the message source.
 What is the originating IP address of this email?
+
 Answer : We can see this in via going mail view source it is in earliest header of the email
 112.119.71.157 
 
 <img width="1055" height="409" alt="image" src="https://github.com/user-attachments/assets/659a8eda-cea7-45ab-84da-664e40c830d4" />
 
 
-
-
-
 Q6 Investigate the IP address from the previous question.
 Who is the owner of the originating IP?
-Answer ; 
+Answer : Hostpapa 
+
+<img width="595" height="638" alt="image" src="https://github.com/user-attachments/assets/1819cc7f-3add-417d-a96d-ad5fd5a221a3" />
+
 
 
 
