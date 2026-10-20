@@ -30,7 +30,9 @@ Q5 Begin analyzing the message source.
 What is the originating IP address of this email?
 Answer : We can see this in via going mail view source it is in earliest header of the email
 112.119.71.157 
-![Uploading image.png…]()
+
+<img width="1055" height="409" alt="image" src="https://github.com/user-attachments/assets/659a8eda-cea7-45ab-84da-664e40c830d4" />
+
 
 
 
