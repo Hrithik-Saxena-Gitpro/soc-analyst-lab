@@ -10,11 +10,6 @@ A cybersecurity portfolio focused on Blue Team operations, threat detection, sec
 - Incident Response
 - Linux & Networking
 
-## 🧪 Hands-on Labs
-- TryHackMe — The Greenholt Phish
-- Defensive Security Labs
-- King of the Hill
-
 ## 🛠️ Tools & Technologies
 - Linux / Ubuntu
 - Wireshark
