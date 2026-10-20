@@ -53,16 +53,6 @@ technical findings in a clear, structured way.
 I use practical cybersecurity labs to strengthen my understanding of
 defensive security concepts.
 
-| Lab / Platform | Focus | Status |
-|---|---|---|
-| TryHackMe — The Greenholt Phish | Phishing investigation | In progress |
-| TryHackMe — Defensive Security | Blue Team fundamentals | Learning |
-| King of the Hill | Defensive skills in an authorised lab | Practising |
-
-> **Note:** Lab status reflects my progress and will be updated as I complete
-> each exercise. Public notes and walkthroughs will follow the platform's
-> current publishing rules.
-
 ## 🚀 Projects
 
 Original projects that demonstrate how I apply cybersecurity concepts
