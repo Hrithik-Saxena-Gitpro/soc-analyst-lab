@@ -24,7 +24,14 @@ What is the sender's email address?
 Answer : info@mutawamarine.com
 
 Q4 What email address will receive a reply to this email?
-Answer : 
+Answer : info.mutawamarine@mail.com
+
+Q5 Begin analyzing the message source.
+What is the originating IP address of this email?
+Answer : We can see this in via going mail view source it is in earliest header of the email
+112.119.71.157
+
+Q6 
 
 
 
