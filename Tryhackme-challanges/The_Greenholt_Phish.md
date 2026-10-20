@@ -84,6 +84,9 @@ Answer :  its RAR ( A RAR file is a proprietary data container and compressed ar
  - So , First of all i got introduced to some of new things like email view source page from which we can help to the the sender ip address orig ip and dmarc and sender policy framework that help us to detect phishing email or spoofing email i will go deep down into these topics in upcoming rooms.
 
 
+We can also check this on google mail id like this shown in below image taken as an example 
+
+<img width="1107" height="525" alt="image" src="https://github.com/user-attachments/assets/1902a43d-e8ba-4c92-b7b9-241c32c11aac" />
 
 
 
