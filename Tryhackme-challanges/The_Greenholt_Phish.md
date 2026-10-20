@@ -37,10 +37,15 @@ Answer : We can see this in via going mail view source it is in earliest header 
 
 Q6 Investigate the IP address from the previous question.
 Who is the owner of the originating IP?
-Answer : Hostpapa 
+Answer : Hostpapa ( Used who is lookup to get the details of the ip address orgname done on this ip address 112.119.71.157  ) 
 
 <img width="595" height="638" alt="image" src="https://github.com/user-attachments/assets/1819cc7f-3add-417d-a96d-ad5fd5a221a3" />
 
+Q7 Run an SPF record check on the Return-Path domain identified in the email headers.
+What is the full SPF record for this domain?
+Answer : i used dig command with +short and TXT flags  
+
+<img width="803" height="155" alt="image" src="https://github.com/user-attachments/assets/f906d816-757c-4c41-b439-eacf019487a3" />
 
 
 
