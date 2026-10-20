@@ -47,8 +47,11 @@ Answer : i used dig command with +short and TXT flags
 
 <img width="803" height="155" alt="image" src="https://github.com/user-attachments/assets/f906d816-757c-4c41-b439-eacf019487a3" />
 
+Q8 Perform a DMARC lookup for the Return-Path domain found in the email headers.
+What is the complete DMARC record for this domain?
+Answer : v=DMARC1; p=quarantine; fo=1 ( DMARC is basicall y a authentication to check email header to prevent the email spoofing and phishing 
 
-
+<img width="803" height="155" alt="image" src="https://github.com/user-attachments/assets/11f44d11-cb35-484f-9f90-7e8376e9a59b" />
 
 
 
