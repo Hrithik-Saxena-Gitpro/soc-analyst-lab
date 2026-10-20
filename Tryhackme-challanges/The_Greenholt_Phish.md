@@ -79,10 +79,9 @@ Answer :  its RAR ( A RAR file is a proprietary data container and compressed ar
 
 
 
+## My personal takeaway from this room 
 
-
-
-
+ - So , First of all i got introduced to some of new things like email view source page from which we can help to the the sender ip address orig ip and dmarc and sender policy framework that help us to detect phishing email or spoofing email i will go deep down into these topics in upcoming rooms.
 
 
 
