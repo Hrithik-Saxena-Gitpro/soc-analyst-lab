@@ -29,9 +29,13 @@ Answer : info.mutawamarine@mail.com
 Q5 Begin analyzing the message source.
 What is the originating IP address of this email?
 Answer : We can see this in via going mail view source it is in earliest header of the email
-112.119.71.157
+112.119.71.157 
 
-Q6 
+
+
+Q6 Investigate the IP address from the previous question.
+Who is the owner of the originating IP?
+Answer ; 
 
 
 
