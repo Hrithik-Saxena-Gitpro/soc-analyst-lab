@@ -11,4 +11,7 @@ It is another challenge on my journey of soc level 1 or you can say entry level 
 => analyze the  phishing kit to uncover the additional indicators 
 
 
+# Tasks Questions and my Answer with approach given below 
+
+
 
