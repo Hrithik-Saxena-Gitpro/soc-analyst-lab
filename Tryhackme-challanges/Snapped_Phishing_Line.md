@@ -52,6 +52,9 @@ Ans  michael.ascot@swiftspend.finance <br>
 <img width="862" height="418" alt="image" src="https://github.com/user-attachments/assets/fbbb0acd-4363-45fd-92c0-cb82efaf854e" />
 
 ### Q10 Extract the phishing kit archive and locate the submit.php file. What email address is used by the adversary to collect compromised credentials ? <br> 
-Ans  
+Ans  m3npat@yandex.com <br>
+
+### Q11 Return to the phishing url and locate the flag.txt file. User cyberchef to decode the flag, What is the secret value ?
+Ans THM{pL4y_w1Th_tH3_URL}
 
 
