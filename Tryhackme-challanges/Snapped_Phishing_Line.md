@@ -29,6 +29,10 @@ Ans kennaroads.buzz <br>
 Ans microsoft <br> 
 <img width="643" height="367" alt="image" src="https://github.com/user-attachments/assets/75b0b980-89eb-401d-a941-493b19e971cf" />
 
+### Q5 Lets check if attacker left any file on the same website . navigate to the /data directory. What is the name of the archive file ? <br>
+Ans Update365.zip <br> 
+
+<img width="616" height="307" alt="image" src="https://github.com/user-attachments/assets/925f752c-833d-45f4-afb2-9245af8836c5" />
 
 
 
