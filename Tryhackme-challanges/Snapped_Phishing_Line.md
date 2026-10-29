@@ -25,6 +25,9 @@ Ans Accounts.Payable@groupmarketingonline.icu
 Ans kennaroads.buzz <br>
 <img width="1282" height="523" alt="image" src="https://github.com/user-attachments/assets/f7032791-70ce-4232-8843-764f11c6989f" />
 
+### Q4 Open the attachment in the web browser. which company is the login page impersonating ? <br> 
+Ans microsoft <br> 
+<img width="643" height="367" alt="image" src="https://github.com/user-attachments/assets/75b0b980-89eb-401d-a941-493b19e971cf" />
 
 
 
