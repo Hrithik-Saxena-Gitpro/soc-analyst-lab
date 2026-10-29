@@ -13,5 +13,7 @@ It is another challenge on my journey of soc level 1 or you can say entry level 
 
 # Tasks Questions and my Answer with approach given below 
 
+### Q1 Begin reviewing the emails in the phish-emails folder on your desktop.Which individual received the email regarding a Quote for Services Rendered?<br>
+Ans
 
 
