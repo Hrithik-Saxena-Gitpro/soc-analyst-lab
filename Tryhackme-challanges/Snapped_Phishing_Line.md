@@ -18,5 +18,8 @@ Ans William McClean
 <br>
 <img width="842" height="336" alt="image" src="https://github.com/user-attachments/assets/302eb211-0100-4c52-a873-19fb2aca9561" />
 
+### Q2 What email address was used by the adversary to send the phishing emails ? <br> 
+Ans 
+
 
 
