@@ -35,5 +35,23 @@ Ans Update365.zip <br>
 <img width="616" height="307" alt="image" src="https://github.com/user-attachments/assets/925f752c-833d-45f4-afb2-9245af8836c5" />
 
 
+### Q6 Download the phishing kit archive to your virtual environment.Using the sha256sum command, what is the SHA256 hash of the file? <br>
+Ans  ba3c15267393419eb08c7b2652b8b6b39b406ef300ae8a18fee4d16b19ac9686  <br>
+<img width="888" height="496" alt="image" src="https://github.com/user-attachments/assets/f313ad77-075e-4e2c-88db-22511f538c24" />
+
+### Q7 Investigate the file hash from the previous question using the virus total tool . Aside from phishing what other threat category is assigned to the zip archive? <br>
+Ans Trojan <br>
+<img width="1148" height="432" alt="image" src="https://github.com/user-attachments/assets/1e96b45b-e20d-44d2-a9a1-b6162a25a11c" />
+
+### Q8 Review the virus total detail page fro phishing kit. How many files contain within the archive? <br>
+Ans 49 <br>
+<img width="538" height="260" alt="image" src="https://github.com/user-attachments/assets/ac067f5a-57c1-49ac-ac5e-8928592d6ac9" />
+
+### Q9 Lets see if attacker has exposed any captured credentials. Navigate to the /data/update365 directory and investigate the log file. What is the email address of the  user who submitted  their credentials more the once? <br> 
+Ans  michael.ascot@swiftspend.finance <br>
+<img width="862" height="418" alt="image" src="https://github.com/user-attachments/assets/fbbb0acd-4363-45fd-92c0-cb82efaf854e" />
+
+### Q10 Extract the phishing kit archive and locate the submit.php file. What email address is used by the adversary to collect compromised credentials ? <br> 
+Ans  
 
 
