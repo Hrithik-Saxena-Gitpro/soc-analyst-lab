@@ -19,7 +19,14 @@ Ans William McClean
 <img width="842" height="336" alt="image" src="https://github.com/user-attachments/assets/302eb211-0100-4c52-a873-19fb2aca9561" />
 
 ### Q2 What email address was used by the adversary to send the phishing emails ? <br> 
-Ans 
+Ans Accounts.Payable@groupmarketingonline.icu
+
+### Q3 Investigate the attachment in the email addressed to Zoe Duncan. What is the root domain of the redirection URL found within the file? <br>
+Ans kennaroads.buzz <br>
+<img width="1282" height="523" alt="image" src="https://github.com/user-attachments/assets/f7032791-70ce-4232-8843-764f11c6989f" />
+
+
+
 
 
 
